@@ -28,6 +28,7 @@ import SkillImg5 from './assets/img/skills/nextjs.png';
 import SkillImg6 from './assets/img/skills/nodejs.png';
 import SkillImg7 from './assets/img/skills/git.png';
 import SkillImg8 from './assets/img/skills/figma.png';
+import SkillImg9 from './assets/img/skills/mysql.png';
 
 // navigation
 export const navigation = [
@@ -136,6 +137,9 @@ export const skills = [
   {
     image: SkillImg8,
   },
+  {
+    image: SkillImg9
+  }
 ];
 
 // contact

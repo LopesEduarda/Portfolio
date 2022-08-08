@@ -3,6 +3,7 @@ import React from 'react';
 // import my image
 import WomanImg from '../assets/img/foto-pessoal.png';
 import FirstImage from '../assets/img/outline-text/firstimage.jpg'
+import CV from '../assets/img/outline-text/cv-maria-eduarda-full-stack.pdf'
 
 
 
@@ -26,7 +27,7 @@ const Hero = () => {
               explorar esse site!
             </p>
             <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
-             <a href="/images/visualdicas_logo.png" download>Baixar CV</a>
+             <a href={CV} download>Baixar CV</a>
             </button> 
           
           </div>

@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.87f56324.css",
-    "main.js": "/static/js/main.d4d8365e.js",
+    "main.js": "/static/js/main.ad9a807d.js",
     "static/media/receitas.png": "/static/media/receitas.d5a5ebb5feb452c3b322.png",
-    "static/media/pizzaria.jpg": "/static/media/pizzaria.a7ad38bf9a0b52d46d5b.jpg",
-    "static/media/todolist.png.crdownload": "/static/media/todolist.png.44408e325275f4c9048f.crdownload",
+    "static/media/pizzaria.jpg": "/static/media/pizzaria.e0af4c34727c95af4e34.jpg",
     "static/media/users2.png": "/static/media/users2.25e2b3382cb1d56aa3cc.png",
     "static/media/foto-pessoal.png": "/static/media/foto-pessoal.6360e48474476a26278c.png",
     "static/media/users.jpg": "/static/media/users.4bf9c46e58cddc1a5627.jpg",
+    "static/media/todolist.jpg": "/static/media/todolist.a32a9f4fd477029110c9.jpg",
+    "static/media/firstimage.jpg": "/static/media/firstimage.6ee62d8564d8f068cc0d.jpg",
     "static/media/portfolio.svg": "/static/media/portfolio.2f31f4be113e35cc3442.svg",
     "static/media/contact.svg": "/static/media/contact.ec60abf53c38c2593f7e.svg",
     "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/index.html",
     "main.87f56324.css.map": "/static/css/main.87f56324.css.map",
-    "main.d4d8365e.js.map": "/static/js/main.d4d8365e.js.map"
+    "main.ad9a807d.js.map": "/static/js/main.ad9a807d.js.map"
   },
   "entrypoints": [
     "static/css/main.87f56324.css",
-    "static/js/main.d4d8365e.js"
+    "static/js/main.ad9a807d.js"
   ]
 }

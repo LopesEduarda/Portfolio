@@ -38,10 +38,10 @@ const Contact = () => {
               );
             })}
           </div>
-          <form
+          {/* <form
             className='space-y-8 w-full max-w-[780px]'
-          >
-            <div className='flex gap-8'>
+          > */}
+            {/* <div className='flex gap-8'>
               <input className='input' type='text' placeholder='Seu nome' />
               <input className='input' type='email' placeholder='Seu email' />
             </div>
@@ -53,7 +53,7 @@ const Contact = () => {
             <button className='btn btn-lg bg-accent hover:bg-secondary-hover'>
               Enviar
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </section>

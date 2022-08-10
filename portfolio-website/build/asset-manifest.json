@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.87f56324.css",
-    "main.js": "/static/js/main.8124b650.js",
+    "main.js": "/static/js/main.af53cab8.js",
     "static/media/receitas.png": "/static/media/receitas.d5a5ebb5feb452c3b322.png",
     "static/media/pizzaria.jpg": "/static/media/pizzaria.e0af4c34727c95af4e34.jpg",
     "static/media/users2.png": "/static/media/users2.25e2b3382cb1d56aa3cc.png",
@@ -16,10 +16,10 @@
     "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/index.html",
     "main.87f56324.css.map": "/static/css/main.87f56324.css.map",
-    "main.8124b650.js.map": "/static/js/main.8124b650.js.map"
+    "main.af53cab8.js.map": "/static/js/main.af53cab8.js.map"
   },
   "entrypoints": [
     "static/css/main.87f56324.css",
-    "static/js/main.8124b650.js"
+    "static/js/main.af53cab8.js"
   ]
 }

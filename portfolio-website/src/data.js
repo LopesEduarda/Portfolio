@@ -17,7 +17,7 @@ import Project2 from './assets/img/users2.png';
 import Project3 from './assets/img/users.jpg';
 import Project4 from './assets/img/ifood.png';
 import Project5 from './assets/img/outline-text/todolist.jpg';
-import Project6 from './assets/img/pizzaria.jpg';
+import Project6 from './assets/img/outline-text/tinder.webp'
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -75,12 +75,14 @@ export const projectsData = [
     image: Project2,
     name: 'Labook',
     description: 'Clique na imagem para ser redirecionado para o link do projeto com mais detalhes!',
+    link: 'https://github.com/LopesEduarda/Labook-back-end'
   },
   {
     id: '3',
     image: Project3,
     name: 'Users',
     description: 'Clique na imagem para ser redirecionado para o link do projeto com mais detalhes!',
+    link: 'https://github.com/LopesEduarda/Easydots-frontend'
   },
   {
     id: '4',
@@ -94,12 +96,14 @@ export const projectsData = [
     image: Project5,
     name: 'To do list',
     description: 'Clique na imagem para ser redirecionado para o link do projeto com mais detalhes!',
+    link: 'https://github.com/LopesEduarda/To-do-list-full-stack'
   },
   {
     id: '6',
     image: Project6,
-    name: 'Pizzaria',
+    name: 'AstroMatch',
     description: 'Clique na imagem para ser redirecionado para o link do projeto com mais detalhes!',
+    link: 'https://github.com/LopesEduarda/Astromatch-front-end'
   },
 ];
 
